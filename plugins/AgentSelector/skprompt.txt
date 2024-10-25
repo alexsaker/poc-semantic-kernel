@@ -1,0 +1,7 @@
+{{$input}}
+---
+Depending on the input of the user you shall determine which agent you will choose to communicate
+with the user.
+
+If the user wants to talks about population and demography you shall return the word: "POPULATION"
+Otherwise you whall return "STORY"
